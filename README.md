@@ -26,15 +26,15 @@
 
 ---
 
-## ![Password Generator](./assets/images/screenshot.png)
+## ![Password Generator](./assets/images/Password Generator.png)
 
 ##### LINKS: 
 
 ---
 
-## [GitHub Password Generator Repo](https://github.com/MichealJWEllis/Password-Generator)
+## [GitHub Password Generator Repo](https://github.com/BMunoz87/Password-Generator)
 
-## [Password Generator Website](https://michealjwellis.github.io/Password-Generator/)
+## [Password Generator Website](https://bmunoz87.github.io/Password-Generator/)
 
 
 
@@ -42,5 +42,5 @@
 
 #### CONTRIBUTION:
 
-Made with ❤️ by [Micheal Jw Ellis]
+Made by Brian
 
