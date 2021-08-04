@@ -26,7 +26,7 @@
 
 ---
 
-## ! [Password Generator] (./assets/images/Password Generator.png)
+## ! [Password Generator] (https://github.com/BMunoz87/Password-Generator/blob/1a0c1bdbb9079343a7731cac36df80234591c69b/assets/images/Screenshot%20from%202021-08-04%2017-49-48.png)
 
 ##### LINKS: 
 
