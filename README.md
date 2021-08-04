@@ -26,7 +26,7 @@
 
 ---
 
-## ![Password Generator](./assets/images/Password Generator.png)
+## ! [Password Generator] (./assets/images/Password Generator.png)
 
 ##### LINKS: 
 
